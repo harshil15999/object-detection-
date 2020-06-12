@@ -1,5 +1,4 @@
-# object-detection-
+# Smart car parking system
 can be used for smart parking system
-this uses a clour filter ans detects the number of coins 
-<week 1>:
-  the object detection parrt is complete 
+this uses a colour filter and detects the number of empty parking spaces in the parking lot 
+
